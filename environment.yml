@@ -2,12 +2,13 @@ name: compphys3361
 channels:
   - defaults
 dependencies:
-  - jupyter
-  - python=3.9
   - numpy
+  - ipython
+  - scikit-image
+  - jupyter
   - matplotlib
   - scipy
   - pandas
+  - python=3.9
   - ipywidgets
-  - scikit-image
 prefix: /Users/rsorba/anaconda3/envs/compphys3361
